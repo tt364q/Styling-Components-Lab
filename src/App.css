@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  height: 50px;
+  padding: 10px;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+}
+
+.Footer{
+  padding: 10px;
+  text-align: center;
+}

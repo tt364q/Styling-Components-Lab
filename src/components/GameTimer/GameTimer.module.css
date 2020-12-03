@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.GameTimer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto Mono';
+    color: grey;
+    font-size: 20px;
+    margin: 30px 0;
+
+}
